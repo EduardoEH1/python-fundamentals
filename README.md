@@ -5,8 +5,8 @@ lists, dictionaries, error handling, and basic algorithms.
 
 ---Exercises---
 
-- **contacts book.py** : Contact book with add/view functionality
 - **bubble_sort.py** : Bubble sort algorithm implementation
+- **contacts book.py** : Contact book with add/view functionality
 - **dynamic shopping cart.py** : Dynamic fruit shopping cart with price calculation
 - **expense tracker.py** : Expense tracker with file-based storage
 - **hanoi tower.py** — Recursive Tower of Hanoi solver
