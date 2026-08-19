@@ -5,11 +5,11 @@ lists, dictionaries, error handling, and basic algorithms.
 
 ---Exercises---
 
-- **hanoi.py** : Recursive Tower of Hanoi solver
+- **contacts book.py** : Contact book with add/view functionality
 - **bubble_sort.py** : Bubble sort algorithm implementation
-- **expense_tracker.py** : Expense tracker with file-based storage
-- **contact_book.py** : Contact book with add/view functionality
-- **unit_converter.py** : Converts between Celsius/Fahrenheit, miles/km, cm/m
-- **shopping_cart.py** : Dynamic fruit shopping cart with price calculation
-- **vowel_counter.py** : Counts vowels in a sentence
-- **machine_temp_logger.py** : Logs machine temperatures and calculates average
+- **dynamic shopping cart.py** : Dynamic fruit shopping cart with price calculation
+- **expense tracker.py** : Expense tracker with file-based storage
+- **hanoi tower.py** — Recursive Tower of Hanoi solver
+- **machine temperature.py** : Logs machine temperatures and calculates average
+- **unitconverter.py** : Converts between Celsius/Fahrenheit, miles/km, cm/m
+- **vowelcounter.py** : Counts vowels in a sentence
